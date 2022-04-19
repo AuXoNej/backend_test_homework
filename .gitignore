@@ -1,5 +1,6 @@
 README.md
 
-__pycache__/.project
+__pycache__/
+
 .pydevproject
 .project
